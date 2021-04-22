@@ -1,4 +1,3 @@
-on: push
 name: build website
 jobs:
   build:
